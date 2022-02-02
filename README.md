@@ -7,9 +7,6 @@ This Project replicates Bank ATM Machine to some Extend
 
 
 It include Basic Bank Opration Like
-
--Balance Checking 
-
--Cash Withdrawal
-
--Cash Deposit
+>Balance Checking 
+>Cash Withdrawal
+>Cash Deposit
